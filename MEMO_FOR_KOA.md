@@ -6,3 +6,8 @@
     - The request object
     - The response object
     - Middleware
+
+## application object
+
+- application object はKoaのアプリケーションインスタンスを含むオブジェクト
+- アプリケーションのミドルウェアのリストも持ってる
