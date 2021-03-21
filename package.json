@@ -1,0 +1,22 @@
+{
+  "name": "or_tutorial_koa",
+  "version": "1.0.0",
+  "description": "Practice Repo for Server Side development with Node.js and Koa.js Quick Start Guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TakahashiIkki/or_tutorial_koa.git"
+  },
+  "author": "TakahashiIkki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TakahashiIkki/or_tutorial_koa/issues"
+  },
+  "homepage": "https://github.com/TakahashiIkki/or_tutorial_koa#readme",
+  "dependencies": {
+    "koa": "^2.13.1"
+  }
+}
